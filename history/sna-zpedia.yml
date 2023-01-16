@@ -1,7 +1,7 @@
 url: https://www.vetpetmon.com/snazpedia/index.php
-status: up
-code: 200
-responseTime: 1952
-lastUpdated: 2023-01-15T23:05:28.658Z
+status: down
+code: 500
+responseTime: 1241
+lastUpdated: 2023-01-16T17:35:11.532Z
 startTime: Sun Dec 18 2022 23:44:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
