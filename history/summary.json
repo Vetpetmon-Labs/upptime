@@ -6,15 +6,15 @@
     "slug": "sna-zpedia",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.11%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.87%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 1775,
-    "timeDay": 1754,
-    "timeWeek": 1862,
-    "timeMonth": 1775,
-    "timeYear": 1775,
+    "time": 1739,
+    "timeDay": 399,
+    "timeWeek": 1684,
+    "timeMonth": 1739,
+    "timeYear": 1739,
     "dailyMinutesDown": {
       "2023-01-16": 13
     }
@@ -31,8 +31,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 43,
-    "timeDay": 51,
-    "timeWeek": 41,
+    "timeDay": 47,
+    "timeWeek": 42,
     "timeMonth": 43,
     "timeYear": 43,
     "dailyMinutesDown": {}
