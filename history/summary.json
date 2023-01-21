@@ -4,10 +4,10 @@
     "url": "https://www.vetpetmon.com/snazpedia/index.php",
     "icon": "https://icons.duckduckgo.com/ip3/www.vetpetmon.com.ico",
     "slug": "sna-zpedia",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.87%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.85%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
     "time": 1745,
@@ -16,6 +16,7 @@
     "timeMonth": 1673,
     "timeYear": 1745,
     "dailyMinutesDown": {
+      "2023-01-21": 2,
       "2023-01-16": 13
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://www.vetpetmon.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.vetpetmon.com.ico",
     "slug": "vetpetmon",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 43,
@@ -35,6 +36,8 @@
     "timeWeek": 40,
     "timeMonth": 43,
     "timeYear": 43,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-21": 1
+    }
   }
 ]
