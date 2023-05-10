@@ -4,9 +4,9 @@
     "url": "https://www.vetpetmon.com/snazpedia/index.php",
     "icon": "https://icons.duckduckgo.com/ip3/www.vetpetmon.com.ico",
     "slug": "sna-zpedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1444,
     "timeMonth": 1635,
     "timeYear": 1710,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-10": 0
+    }
   },
   {
     "name": "Vetpetmon",
