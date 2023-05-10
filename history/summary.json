@@ -4,19 +4,19 @@
     "url": "https://www.vetpetmon.com/snazpedia/index.php",
     "icon": "https://icons.duckduckgo.com/ip3/www.vetpetmon.com.ico",
     "slug": "sna-zpedia",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 1710,
-    "timeDay": 2013,
-    "timeWeek": 1444,
-    "timeMonth": 1635,
+    "timeDay": 1865,
+    "timeWeek": 1478,
+    "timeMonth": 1638,
     "timeYear": 1710,
     "dailyMinutesDown": {
-      "2023-05-10": 0
+      "2023-05-10": 13
     }
   },
   {
