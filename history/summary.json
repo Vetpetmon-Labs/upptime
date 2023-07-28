@@ -4,19 +4,19 @@
     "url": "https://www.vetpetmon.com/snazpedia/index.php",
     "icon": "https://icons.duckduckgo.com/ip3/www.vetpetmon.com.ico",
     "slug": "sna-zpedia",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.74%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
-    "time": 1600,
-    "timeDay": 2111,
-    "timeWeek": 1319,
-    "timeMonth": 1333,
-    "timeYear": 1600,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "94.86%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.98%",
+    "time": 1645,
+    "timeDay": 6961,
+    "timeWeek": 2631,
+    "timeMonth": 1682,
+    "timeYear": 1645,
     "dailyMinutesDown": {
-      "2023-07-28": 18
+      "2023-07-28": 74
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://www.vetpetmon.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.vetpetmon.com.ico",
     "slug": "vetpetmon",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.77%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "94.90%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.98%",
     "time": 45,
-    "timeDay": 31,
-    "timeWeek": 34,
-    "timeMonth": 38,
+    "timeDay": 40,
+    "timeWeek": 36,
+    "timeMonth": 39,
     "timeYear": 45,
     "dailyMinutesDown": {
-      "2023-07-28": 18
+      "2023-07-28": 73
     }
   }
 ]
